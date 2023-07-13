@@ -1,5 +1,5 @@
 <h1>Backend Assessment</h1>
-<span>1. Clone the github repository or download it and edit the env file as desired</span>
+<p>1. Clone the github repository or download it and edit the env file as desired</p>
 
 <p>2. Run npm install to install the dependencies required</p>
 <p>3. Use node index.js or nodemon index.js to run the server on port 9000</p>
