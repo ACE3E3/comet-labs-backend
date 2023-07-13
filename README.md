@@ -1,3 +1,12 @@
+<h1>Backend Assessment</h1>
+<span>Clone the github repository or download it and edit the env file as desired</span>
+<p>run npm install to install the dependencies required</p>
+<p>use node index.js or nodemon index.js to run the server on port 9000</p>
+
+<h2>NOTE : </h2><span>Sphere Engine API has been integrated but not used due to not being able to generate access token because it requires company email to sign up.</span>
+
+<h1>Screenshots of the APIs are below : </h1>
+
 ![ss1](https://github.com/ACE3E3/comet-labs-backend/assets/53176174/42d7c5f3-17af-49d0-865e-92988a5f3c15)
 ![ss2](https://github.com/ACE3E3/comet-labs-backend/assets/53176174/8704d7f8-50b4-4c8f-816c-1c4e9357551e)
 ![ss3](https://github.com/ACE3E3/comet-labs-backend/assets/53176174/99f71e3b-7811-4e3b-920a-4171c55987aa)
